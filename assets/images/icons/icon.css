@@ -1,0 +1,79 @@
+@charset "UTF-8";
+
+.icon {
+    display: inline-block;
+    height: 1em;
+    width: 1em;
+    mask-size: contain;
+    -webkit-mask-size: contain;
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    mask-position: center;
+    -webkit-mask-position: center;
+}
+
+.icon-arrow-left {
+    mask-image: url(arrow_downward_alt.svg);
+    -webkit-mask-image: url(arrow_downward_alt.svg);
+}
+
+.icon-area_chart {
+    mask-image: url(area_chart.svg);
+    -webkit-mask-image: url(area_chart.svg);
+}
+
+.icon-beenhere{
+    mask-image: url(beenhere.svg);
+    -webkit-mask-image: url(beenhere.svg);
+}
+.icon-book{
+    mask-image: url(book_4.svg);
+    -webkit-mask-image: url(book_4.svg);
+}
+
+.icon-verified_user{
+    mask-image: url(verified_user.svg);
+    -webkit-mask-image: url(verified_user.svg);
+}
+
+.icon-account_balance{
+    mask-image: url(account_balance.svg);
+    -webkit-mask-image: url(account_balance.svg);
+}
+
+.icon-info{
+    mask-image: url(info.svg);
+    -webkit-mask-image: url(info.svg);
+}
+
+.icon-gavel{
+    mask-image: url(gavel.svg);
+    -webkit-mask-image: url(gavel.svg);
+}
+
+.icon-article{
+    mask-image: url(article.svg);
+    -webkit-mask-image: url(article.svg);
+}
+.icon-police{
+    mask-image: url(local_police.svg);
+    -webkit-mask-image: url(local_police.svg);
+}
+
+.icon-savings{
+    mask-image: url(savings.svg);
+    -webkit-mask-image: url(savings.svg);
+}
+.icon-arrow{
+    mask-image: url(arrow_forward_ios.svg);
+    -webkit-mask-image: url(arrow_forward_ios.svg);
+}
+.icon-arrow-down{
+    mask-image: url(arrowDown.svg);
+    -webkit-mask-image: url(arrowDown.svg);
+}
+.icon-scale{
+    mask-image: url(scale.svg);
+    -webkit-mask-image: url(scale.svg);
+}
+
