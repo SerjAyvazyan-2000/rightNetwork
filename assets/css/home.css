@@ -853,8 +853,10 @@
 @media (max-width: 576px) {
 
     .hero-media-item {
-        max-width: 100%;
+        max-width: 320px;
         min-width: 320px;
+        max-height: 268px;
+        height: 268px;
 
     }
 
@@ -887,11 +889,13 @@
     }
 
     .trust-big-item {
-        max-width: 100%;
+        max-width: 320px;
         min-width: 320px;
         min-height: 230px;
+        height: 230px;
         border-radius: 30px;
         padding: 40px 20px;
+        margin: 0 auto;
     }
 
     .trust-item-title {
@@ -983,8 +987,9 @@
         padding: 32px;
         border-radius: 30px;
         min-width: 240px;
-        max-width: 100%;
+        max-width: 240px;
         min-height: 219px;
+        margin: 0  auto;
     }
 
     .faq-items {
@@ -1030,7 +1035,7 @@
 
 
     .hero-media-item {
-        margin-top: 0;
+        margin: 0 auto;
     }
 
     .hero-btn {
